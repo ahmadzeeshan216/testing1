@@ -1,4 +1,4 @@
 class City < ApplicationRecord
     has_many :properties
 end
-sdfas
+branch1
